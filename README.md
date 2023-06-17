@@ -73,7 +73,6 @@ As a fresher developer, we assume that the Shopping Website database is one of t
 <br />
 
 ## Language and Framework <a name="LanguageandFramework"></a> :sloth:
-### Technologies :globe_with_meridians:
 
 - Language: Java, MySQL
 - UI: [netbeans](https://netbeans.apache.org/)
