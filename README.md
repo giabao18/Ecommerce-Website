@@ -1,23 +1,13 @@
 
-<div id="top" align="center">
-<img src="screenshots/Banner_For_Readme.png" alt="Banner">
-</div>
-
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/giabao18/Shopping-Website.git">
-    <img src="logo.png" alt="Logo" width="200" height="200">
+    <img src="logo2.png" alt="Logo" width="70" height="70">
   </a>
 
-  <h3 align="center">SHOPPING WEBSITE PROJECT</h3>
-
-  <p align="center">
-    A simple project created with MySQL and Java for the Principles of Database Management course at International University - VNUHCM!
-    <br />
-    <br />
-  </p>
+  <h1 align="center">SHOPPING WEBSITE PROJECT</h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -41,7 +31,7 @@
 </div>
 
 <div style="text-align:justify">
-This is a database project for our final lab in our Principles of Database Management course in semester 2 (2022 - 2023).
+A simple project created with MySQL and Java for our final lab in our Principles of Database Management course in semester 2 (2022 - 2023) at International University - VNUHCM!.
 </div>
 
 ### Team Members :couplekiss_man_man:
@@ -92,11 +82,12 @@ As a fresher developer, we assume that the Shopping Website database is one of t
 
 
 ## ERD Diagram<a name="ERD-diagram"></a> :tea:
-<!-- ![](UML_Diagrams/Control.jpeg) -->
+<img src="Entity Realtionsip Diagram.png" alt="ERD" >
 
 
 
 ## ERR Diagram<a name="ERR-diagram"></a> ☕
+<img src="Enhanced Enitity Relationship Diagrams.png" alt="ERR" >
 
 
 
