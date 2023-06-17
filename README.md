@@ -74,22 +74,22 @@ As a fresher developer, we assume that the Shopping Website database is one of t
 
 ## Language and Framework <a name="LanguageandFramework"></a> :sloth:
 
-- Language: Java, MySQL
+- Language: Java, SQL
 - UI: [netbeans](https://netbeans.apache.org/)
 - Database: [MySQL Workbench](https://www.mysql.com/products/workbench/)
   
-
+<br />
 
 ## ERD Diagram<a name="ERD-diagram"></a> :tea:
 <img src="Entity Relationship Diagram.png" alt="ERD" >
 
-
+<br />
 
 ## ERR Diagram<a name="ERR-diagram"></a> ☕
 <img src="Enhanced Enitity Relationship Diagrams.png" alt="ERR" >
 
 
-
+<br />
 
 <!-- FEATURES -->
 ## Features<a name="Features"> :triangular_flag_on_post:
