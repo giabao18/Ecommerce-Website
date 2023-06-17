@@ -82,7 +82,7 @@ As a fresher developer, we assume that the Shopping Website database is one of t
 
 
 ## ERD Diagram<a name="ERD-diagram"></a> :tea:
-<img src="Entity Realtionsip Diagram.png" alt="ERD" >
+<img src="Entity Relationship Diagram.png" alt="ERD" >
 
 
 
