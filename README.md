@@ -7,8 +7,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Nhathuy1305/OOP_BOMBERMAN_GAME.git">
-    <img src="res/images/ttsalpha4.0@0.5x.png" alt="Logo" width="200" height="200">
+  <a href="https://github.com/giabao18/Shopping-Website.git">
+    <img src="logo.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">SHOPPING WEBSITE PROJECT</h3>
