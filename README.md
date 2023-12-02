@@ -7,7 +7,7 @@
     <img src="logo2.png" alt="Logo" width="70" height="70">
   </a>
 
-  <h1 align="center">SHOPPING WEBSITE PROJECT</h3>
+  <h1 align="center">ECOMMERCE WEBSITE PROJECT</h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
